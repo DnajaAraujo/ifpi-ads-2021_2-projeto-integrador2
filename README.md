@@ -10,5 +10,5 @@
 ## Tecnologias/Metodologias utilizadas :pencil:
 - Análise e Projeto de Sistemas: Documento de software e SCRUM
 - Engenharia de Software III: Clean Code e conceitos de POO
-- Programação para Internet II: 
+- Programação para Internet II: ReactJS e Typescript
 - Rede de Computadores: 
