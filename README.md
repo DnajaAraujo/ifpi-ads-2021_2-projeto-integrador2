@@ -5,10 +5,10 @@
 - Wictor Gabriel
 
 ## Tema do sistema :star:
-- O sistema tem como tema a criação de um buscador de preços baixos.
+- Sistema para venda, empréstimo, troca e doação de livros (usados ou não).
 
 ## Tecnologias/Metodologias utilizadas :pencil:
-- Análise e Projeto de Sistemas: Documento de arquitetura de software e SCRUM
+- Análise e Projeto de Sistemas: UML e SCRUM
 - Engenharia de Software III: Clean Code e conceitos de POO
 - Programação para Internet II: React e TypeScript
-- Rede de Computadores: 
+- Rede de Computadores: Conhecimentos sobre os protocolos TCP e IP
