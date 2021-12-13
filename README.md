@@ -10,7 +10,7 @@
 ## Tecnologias/Metodologias utilizadas 📝
 - Análise e Projeto de Sistemas: UML e SCRUM
 - Engenharia de Software III: Clean Code e conceitos de POO
-- Programação para Internet II: React e TypeScript
+- Programação para Internet II: React e JavaScript
 - Rede de Computadores: Conhecimentos sobre os protocolos TCP e IP
 
 ## Protótipo 💻
